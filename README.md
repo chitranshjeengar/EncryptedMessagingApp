@@ -1,6 +1,6 @@
 # chatapp
 
-A new Flutter project. It is a multi user messaging app which with uses AES-256 for secure end to end encrypted messaging and diffie hellman key ecchange algorithm for exchanging secret key.
+A new Flutter project. It is a multi user messaging app which with uses AES-256 for secure end to end encrypted messaging and diffie hellman key exchange algorithm for exchanging secret key.
 
 ## Getting Started
 
